@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "Floki",
+    "texto": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos ab dolorem consequatur omnis recusandae aspernatur saepe laboriosam sed.",
+    "fecha": "13-04-2023",
+    "nota": 5
+  },
+  {
+    "autor": "Ragnar",
+    "texto": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos ab dolorem consequatur omnis recusandae aspernatur saepe laboriosam sed.",
+    "fecha": "13-04-2023",
+    "nota": 5
+  },
+  {
+    "autor": "Lagerta",
+    "texto": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos ab dolorem consequatur omnis recusandae aspernatur saepe laboriosam sed.",
+    "fecha": "13-04-2023",
+    "nota": 5
+  },
+  {
+    "autor": "Bjorn",
+    "texto": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos ab dolorem consequatur omnis recusandae aspernatur saepe laboriosam sed.",
+    "fecha": "13-04-2023",
+    "nota": 5
+  },
+  {
+    "autor": "Rollo",
+    "texto": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos ab dolorem consequatur omnis recusandae aspernatur saepe laboriosam sed.",
+    "fecha": "13-04-2023",
+    "nota": 5
+  }
+]

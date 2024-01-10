@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Corte de pelo",
+    "precio": 100,
+    "seleccionado": false
+  },
+  {
+    "id": 2,
+    "nombre": "Corte de barba",
+    "precio": 50,
+    "seleccionado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Corte de pelo y barba",
+    "precio": 150,
+    "seleccionado": false
+  },
+  {
+    "id": 4,
+    "nombre": "Afeitado",
+    "precio": 50,
+    "seleccionado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Corte de pelo y afeitado",
+    "precio": 150,
+    "seleccionado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Corte de pelo, barba y afeitado",
+    "precio": 200,
+    "seleccionado": false
+  }
+]

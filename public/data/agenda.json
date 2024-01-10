@@ -1,0 +1,72 @@
+[
+  {
+    "fecha": "26-07-2023",
+    "value": "08:00",
+    "estatus": "reservado"
+  },
+  {
+    "fecha": "26-07-2023",
+    "value": "09:00",
+    "estatus": "reservado"
+  },
+  {
+    "fecha": "26-07-2023",
+    "value": "10:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "26-07-2023",
+    "value": "11:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "26-07-2023",
+    "value": "12:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "26-07-2023",
+    "value": "13:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "27-07-2023",
+    "value": "14:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "27-07-2023",
+    "value": "15:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "28-07-2023",
+    "value": "16:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "28-07-2023",
+    "value": "17:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "29-07-2023",
+    "value": "18:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "29-07-2023",
+    "value": "19:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "30-07-2023",
+    "value": "20:00",
+    "estatus": "disponible"
+  },
+  {
+    "fecha": "30-07-2023",
+    "value": "21:00",
+    "estatus": "disponible"
+  }
+]

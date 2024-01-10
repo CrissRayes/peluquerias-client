@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "negocio": "Peluqueria La Venganza",
+    "fecha": "Lunes 23 de Agosto del 2021",
+    "servicio": "Corte de pelo + corte de barba",
+    "estado": "activa"
+  },
+  {
+    "id": 2,
+    "negocio": "Peluqueria La Venganza",
+    "fecha": "Lunes 23 de enero del 2021",
+    "servicio": "Corte de pelo + corte de barba",
+    "estado": "completada"
+  },
+  {
+    "id": 3,
+    "negocio": "Peluqueria La Venganza",
+    "fecha": "Lunes 23 de Agosto del 2020",
+    "servicio": "Corte de pelo + corte de barba",
+    "estado": "anulada"
+  },
+  {
+    "id": 4,
+    "negocio": "Peluqueria La Venganza",
+    "fecha": "Lunes 23 de Agosto del 2019",
+    "servicio": "Corte de pelo + corte de barba",
+    "estado": "completada"
+  }
+]
